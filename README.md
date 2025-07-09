@@ -37,6 +37,8 @@
   <img src="https://64.media.tumblr.com/b7fd46cfb6879d6bc9f537da02243da5/fbe4122b9f966813-83/s2048x3072/0878e433a293eaf0f81cff9367b093297c4c133b.pnj" />
 </p>
 
+
+[![Watch the video](https://i.ytimg.com/vi/CNPdO5TZ1DQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD3cDM2KIi4P42XZ2pG8e6bwmAfYw)](https://www.youtube.com/watch?v=CNPdO5TZ1DQ&list=RDCNPdO5TZ1DQ&start_radio=1)
 <!--
 **partypuppy/partypuppy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
